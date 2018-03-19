@@ -1,0 +1,15 @@
+body{
+    font-family: lobster;
+    background-color: white;
+}
+h1{
+    color:black;
+
+}
+input{
+    width: 33%;
+}
+#output{
+    color:green;
+    text-align: left;
+}
